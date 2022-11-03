@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url(untildawn.jpg) #000;
+    background: url(Imagenes/fondo2.webp) #000;
     background-size: cover;
     color: #fff;
     font-size: 16px;
@@ -19,6 +19,7 @@ body {
     width: 90%;
     max-width: 1000px;
     margin: auto;
+    margin-top: 20%;
 }
 
 .widget {
